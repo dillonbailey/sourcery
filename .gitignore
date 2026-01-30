@@ -11,3 +11,9 @@ count.txt
 .output
 .vinxi
 todos.json
+
+.env*
+.flaskenv*
+!.env.project
+!.env.vault
+.env.local
